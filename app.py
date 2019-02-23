@@ -8,7 +8,7 @@ from flask import Flask ,render_template
 
 app = Flask(__name__)
 
-boostap = Bootstrap(app)
+boostrap = Bootstrap(app)
 
 # name by using  __my__grades = 46
 
